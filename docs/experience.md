@@ -1,14 +1,10 @@
 # EXPERIENCE.md
 
-*Register: Technical. The substantive governing artifact — what `catenator.md` connects to and what `/design-document`'s argument is actually about.*
-
-*Structure adapted from Design for the AI Era: Paradigm Shift — Persona, Screen, Context, Content, Time, and Trust chapters.*
+*Adapted from Design for the AI Era: Paradigm Shift — Persona, Screen, Context, Content, Time, and Trust chapters.*
 
 ---
 
-## What this is
-
-**The design document is EXPERIENCE.md.**
+## The design document is EXPERIENCE.md
 
 Not an analogy. Not one implementation among several. Wherever the argument on `/design-document`, `/dimensions`, or `/polygon-grammar` refers to "the design document," it means this artifact, specifically — the governing decisions a designer makes about what an experience should be, for whom, and under what rules, written down before any build exists, in a form the build can execute from.
 

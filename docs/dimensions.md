@@ -1,6 +1,7 @@
 # /dimensions
 
-*Register: Narrative leading into Technical. Based directly on the book's Screen, Context, Content, Time, and Trust chapters. Persona is the governing input; these five are what it governs.*
+
+*Adapted from Design for the AI Era: Paradigm Shift — Screen, Context, Content, Time, and Trust chapters. Persona is the governing input; these five are what it governs.*
 
 ---
 

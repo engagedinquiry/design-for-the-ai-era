@@ -1,8 +1,4 @@
-Title: The design document is the product. The screens are the consequence.
-
-*Title line from Design for the AI Era: Paradigm Shift. This essay is original argument, not adapted from the book.*
-
----
+# Methodology
 
 The design document is the product. The screens are the consequence.
 

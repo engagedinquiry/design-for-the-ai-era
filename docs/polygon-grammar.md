@@ -1,6 +1,4 @@
-# /polygon-grammar
-
-*Register: Narrative leading into Technical. Based directly on the book's Persona chapter.*
+# Polygon-grammar
 
 *Adapted from Design for the AI Era: Paradigm Shift — Persona chapter.*
 

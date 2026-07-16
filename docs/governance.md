@@ -1,8 +1,4 @@
-# /governance
-
-*Register: Narrative, leading into the technical detail Prism and the spec build on.*
-
----
+# Governance
 
 ## What governing means here
 
