@@ -1,6 +1,4 @@
-# /prism — the reveal/split mechanism
-
-*Register: Technical, following from `/dimensions`. First full formal statement of the mechanism.*
+# Prism — the reveal/split mechanism
 
 *Adapted from Design for the AI Era: Paradigm Shift — Prism chapter.*
 

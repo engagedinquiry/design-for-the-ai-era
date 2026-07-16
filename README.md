@@ -10,9 +10,9 @@ This repo holds two things: the methodology (why this works, and how it's struct
 
 ## Start here
 
-If you want the argument first — **[docs/methodology.md](docs/methodology.md)**. Ten minutes. Explains why a governed document, not a prompt, is what should precede a build.
+If you want the argument first — **[Methodology](docs/methodology.md)**. Ten minutes. Explains why a governed document, not a prompt, is what should precede a build.
 
-If you want the artifact first — **[spec/EXPERIENCE.md](spec/EXPERIENCE.md)**. The actual template. Copy it, fill it in, use it. See **[docs/experience.md](docs/experience.md)** for what this artifact is and why each section exists.
+If you want the artifact first — **[EXPERIENCE.md](spec/EXPERIENCE.md)**. The actual template. Copy it, fill it in, use it. See **[docs/experience.md](docs/experience.md)** for what this artifact is and why each section exists.
 
 ---
 
